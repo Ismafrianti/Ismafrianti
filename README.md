@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning Python
 - 💬 Ask me about anythingggg
 - 📫 How to reach me: instagram profile @ismafrianti
-- 😄 Pronouns: She/Her
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Ismafrianti alt=Ismafrianti /> </p>
 
