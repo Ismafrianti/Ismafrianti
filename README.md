@@ -1,5 +1,10 @@
 ## Hey, Isma Afrianti Kusuma Hapsari There👋
 
+- 🔭 I’m currently studying on Gadjah Mada University
+- 🌱 I’m currently learning Geophysics
+- 🎶 My hobby is listening music
+- 💬 Ask me about anything 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ismafrianti)
 [![Gmail Badge](https://img.shields.io/badge/-isma.afrianti0203@mail.ugm.ac.id-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:isma.afrianti0203@mail.ugm.ac.id)](mailto:isma.afrianti0203@mail.ugm.ac.id)
